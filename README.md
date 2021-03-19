@@ -1,2 +1,2 @@
 # avalanche-pathway
-Learned how to make my first transactions on Avalanche blockchain by following the Figment tutorial
+Learned how to make transactions on [Avalanche blockchain](https://www.avalabs.org/) using [Figment Datahub API](https://datahub.figment.io) by following a [Pathway tutorial](https://learn.figment.io/figment-learn/pathways#avalanche-pathway)
